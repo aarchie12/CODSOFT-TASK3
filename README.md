@@ -1,1 +1,3 @@
-This is a simple GUI-based Rock Paper Scissors game developed using Python’s Tkinter library. The user selects Rock, Paper, or Scissors, and the computer makes a random choice. The game displays both choices using emojis and determines the winner based on standard rules and  updates the score
+This is a simple GUI-based Rock Paper Scissors game developed using Python’s Tkinter library. The user selects Rock, Paper, or Scissors, and the computer makes a random choice. The game displays both choices using emojis and determines the winner based on standard rules and  updates the score.
+
+Video link:-
